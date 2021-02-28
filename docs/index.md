@@ -12,5 +12,5 @@ title: "Home"
 </header>
 
   <h1>Testing</h1>
-  <img src="/assets/img/jerusalem-1712855_1920.jpg">
+  <img src="{{site.baseurl}}/assets/img/jerusalem-1712855_1920.jpg">
   
