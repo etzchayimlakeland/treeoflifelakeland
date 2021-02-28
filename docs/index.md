@@ -3,6 +3,6 @@ layout: default
 title: "Home"
 ---
 
-## You're ready to go!
+## Testing
 
-Start developing your Jekyll website.
+This is a test!
