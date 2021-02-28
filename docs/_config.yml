@@ -1,3 +1,9 @@
+# Site settings
+title: Tree of Life Lakeland
+logo: assets/img/EtzChayim.jpg
+email: etzchayim@dmcarroll.net
+description: >- # this means to ignore newlines until "baseurl:"
+  Development website for Etz Chayim Messianic Synagogue in Lakeland, Florida.
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+author: Dan Carroll
