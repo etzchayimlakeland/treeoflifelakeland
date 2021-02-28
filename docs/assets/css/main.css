@@ -1,6 +1,3 @@
----
----
-
 body {
   background: #ffffff;
   color: #000000;
@@ -27,7 +24,7 @@ background-color:#007bff!important
 
 /*header style*/
 .header{
- background-image: url('{{ site.baseurl }}{% link assets/img/jerusalem-1712855_1920.jpg %}');
+ background-image: url('/treeoflifelakeland/assets/img/jerusalem-1712855_1920.jpg');
  background-attachment: fixed;
  background-size: cover;
  background-position: center;
