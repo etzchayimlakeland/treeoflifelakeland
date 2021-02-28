@@ -1,4 +1,5 @@
-
+---
+---
 body {
   background: #ffffff;
   color: #000000;
@@ -25,7 +26,7 @@ background-color:#007bff!important
 
 /*header style*/
 .header{
- background-image: url('/assets/img/jerusalem-1712855_1920.jpg');
+ background-image: url('{{site.baseurl}}/assets/img/jerusalem-1712855_1920.jpg');
  background-attachment: fixed;
  background-size: cover;
  background-position: center;
