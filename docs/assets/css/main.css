@@ -39,22 +39,22 @@ background-color:#007bff!important
  background: rgba(244, 244, 244, 0.79);
 }
 
-.description{
+.TOL-logo{
     position: absolute;
     top: 30%;
     margin: auto;
     padding: 2em;
 }
-.description h1{
+.TOL-logo h1{
  color:#F97300 ;
 }
-.description p{
+.TOL-logo p{
  color:#666;
  font-size: 20px;
  width: 50%;
  line-height: 1.5;
 }
-.description button{
+.TOL-logo button{
  border:1px  solid #F97300;
  background:#F97300;
  color:#fff;

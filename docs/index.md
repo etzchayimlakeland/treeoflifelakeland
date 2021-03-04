@@ -6,11 +6,10 @@ title: "Home"
 <header class="header">
   <div class="overlay"></div>
    <div class="container">
-		<div class="description ">
-		   <h1>    Hello ,Welcome To My official Website
-			<p>    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-			</p>   
-			<button class="btn btn-outline-secondary btn-lg">See more</button>   </h1>  
+		<div class="TOL-logo">
+			<img src="assets/img/EtzChayimLogo.svg" alt="Etz Chayim logo" width="200px" class="img-fluid">
+			<h1 class="text-success display-2 mb-0 pb-0">Tree of Life</h1>
+			<h2 class="text-secondary text-uppercase font-weight-lighter mt-n4">Messianic Congregation</h2>
 		</div>
    </div>  
 </header>
