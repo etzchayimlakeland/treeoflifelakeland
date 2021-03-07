@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-<header class="header">
+<header class="header h-100">
   <div class="overlay"></div>
    <div class="container align-middle h-100 justify-content-center align-items-center">
 		<div class="TOL-logo text-center">
