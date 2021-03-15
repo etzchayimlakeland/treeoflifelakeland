@@ -1,23 +1,27 @@
 <!-- NAV -->
- <nav class="navbar navbar-expand-lg fixed-top ">
- <a class="navbar-brand" href="#">Tree of Life - Lakeland</a>
-<button class="navbar-toggler bg-warning" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
- <span class="navbar-toggler-icon"></span>
-</button>
-<div class="collapse navbar-collapse " id="navbarSupportedContent">
-	<ul class="navbar-nav mr-4">
-	  <li class="nav-item">
-		 <a class="nav-link" data-value="about" href="#">About Us</a>
-	  </li>
-	  <li class="nav-item">
-		<a class="nav-link " data-value="resources"href="#">Resources</a>
-	  </li>
-	  <li class="nav-item">
-		<a class="nav-link " data-value="media" href="#">Media</a>
-	  </li>
-	  <li class="nav-item">
-		<a class="nav-link " data-value="contact" href="#">Contact Us</a>
-	  </li>
-	</ul>
-</div>
+ <nav class="navbar navbar-dark bg-dark fixed-top">
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
+	 <span class="fa fa-bars" style="color:#fff; font-size:28px;"></span>
+	</button>
+	<a class="navbar-brand" href="#">{{ page.title }} - {{ site.title }}</a>
+	<button class="invisible" type="button">
+	 <span>Menu</span>
+	</button>
+
+	<div class="collapse navbar-collapse " id="navbarMain">
+		<ul class="navbar-nav mr-4">
+		  <li class="nav-item">
+			 <a class="nav-link" data-value="about" href="#">About Us</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link " data-value="resources"href="#">Resources</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link " data-value="media" href="#">Media</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link " data-value="contact" href="#">Contact Us</a>
+		  </li>
+		</ul>
+	</div>
 </nav>
