@@ -5,11 +5,13 @@ title: "Home"
 
 <header class="header">
   <div class="overlay"></div>
-   <div class="container align-middle justify-content-center">
+   <div class="container align-middle justify-content-center" id="main-container">
 		<div class="container TOL-logo text-center mx-auto">
 			<img src="assets/img/EtzChayimLogo.svg" alt="Etz Chayim logo" width="200px" class="img-fluid">
-			<h1 class="text-success display-2 mb-0 pb-0">Tree of Life</h1>
-			<h2 class="text-secondary text-uppercase font-weight-lighter mt-n4">Messianic Congregation</h2>
+			<h1 class="text-success display-2 mb-0 pb-0 d-none d-sm-block">Tree of Life</h1>
+			<h1 class="text-success display-4 mb-0 pb-0 d-sm-none">Tree of Life</h1>
+			<h2 class="text-secondary text-uppercase font-weight-lighter mt-0 pt-0 d-none d-sm-block">Messianic Congregation</h2>
+			<h5 class="text-secondary text-uppercase font-weight-lighter mt-0 pt-0 d-sm-none">Messianic Congregation</h5>
 		</div>
    </div>  
 </header>
